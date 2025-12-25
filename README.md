@@ -1,6 +1,10 @@
 <h1 align="center">Hey there! 👾 I'm Martin Mbithi</h1>
 <h3 align="left">
-A passionate software engineer who excels in continuous learning and thrives on tackling diverse challenges. With a focus on precision and performance optimization, I am committed to delivering high-quality solutions. I enjoy leveraging creativity and logic to solve complex problems, explore new possibilities, and push the boundaries of innovation.
+ Software Engineer with 7+ years of experience delivering
+scalable web, mobile, and cloud-based systems across
+government and private-sector environments. <br /><br />
+Specialized in systems automation, RESTful APIs,
+databases, and ICT infrastructure support.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
